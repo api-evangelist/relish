@@ -31,6 +31,9 @@ description: Relish is a consumer product operated at hellorelish.com and backed
   verified technical artifact is a domain-security posture probe (TLS 1.3, SPF and DMARC present, no
   HSTS/DNSSEC/CAA records).
 url: https://raw.githubusercontent.com/api-evangelist/relish/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "No public API surface was discovered during enrichment; the only verified technical artifact is a domain-security posture probe (TLS 1.3, SPF and DMARC present, no HSTS/DNSSEC/CAA records)."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
