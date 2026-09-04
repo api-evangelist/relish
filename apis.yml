@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://hellorelish.com', status: 301, note: 'declared website redirects to https://www.DropCatch.com/domain/hellorelish.com — a different registrable domain (hellorelish.com -> dropcatch.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/relish.png
 name: Relish
 description: Relish is a consumer product operated at hellorelish.com and backed by Bullpen Capital,
